@@ -8,7 +8,10 @@
 </h1>
 
 <h2>Uses</h2>
-* Styled Components
-* Eslint
-* Prettier
-* Typescript
+<ul>
+  
+  <li>Styled Components</li>
+  <li>Eslint</li>
+  <li>Prettier</li>
+  <li>Typescript</li>
+  </ul>
